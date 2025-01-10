@@ -1,16 +1,18 @@
 # BotBuzz
 
-BotBuzz es un módulo de Python diseñado para facilitar el envío de mensajes y notificaciones a través de Telegram. Este módulo permite integrar de manera sencilla la funcionalidad de mensajería de Telegram en tus aplicaciones.
+BotBuzz es un módulo de Python diseñado para facilitar el envío de mensajes y notificaciones a través de un bot de Telegram. Este módulo permite integrar de manera sencilla la funcionalidad de mensajería de Telegram en tus aplicaciones, usando el token de tu bot.
 
 ## Instalación
 
-Para instalar BotBuzz, puedes clonar el repositorio y luego instalarlo usando pip:
+Para instalar BotBuzz, puedes clonar el repositorio y luego instalarlo usando pip en tu ambiente virtual:
 
 ```bash
-git clone https://github.com/tu-usuario/BotBuzz.git
+git clone https://github.com/IamRodion/BotBuzz.git
 cd BotBuzz
-pip install .
+pip install . # Con el ambiente virtual activado
 ```
+
+O puedes descargar la [última versión](https://github.com/IamRodion/BotBuzz/releases) en vez de clonar el repo.
 
 ## Uso
 
