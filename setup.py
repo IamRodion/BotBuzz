@@ -24,3 +24,8 @@ setup(
     ],
     python_requires='>=3.6',
 )
+
+"""
+Para crear la carpeta dist con los paquetes para los releases y binarios:
+python setup.py bdist_wheel sdist
+"""
